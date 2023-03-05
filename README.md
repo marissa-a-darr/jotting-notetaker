@@ -14,7 +14,7 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
 * https://choosealicense.com/licenses/mit/
 
 ## Screenshot <a name="screenshot"></a>  
-![Jotting Notetaker Screenshot](./Develop/public/assets/images/notetakerscreenshot.png)
+![Jotting Notetaker Screenshot](./public/assets/images/notetakerscreenshot.png)
 
 
 

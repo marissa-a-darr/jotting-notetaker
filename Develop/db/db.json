@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Cool Thing He Said",
+        "text": "\"That's what she said\"",
+        "id": "4b9ecb13-7f36-44e8-be1d-f8fcbce03d20"
+    },
+    {
+        "title": "Taco Recommendation",
+        "text": "Todd recommended we try Fuzzy's Tacos. He said their beef taco was out of this world",
+        "id": "aa01a9e7-8b37-4e43-95f6-f998025b0086"
     }
 ]
